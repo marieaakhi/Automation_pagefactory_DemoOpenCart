@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23846" started-at="2019-11-22T15:02:54 BDT" finished-at="2019-11-22T15:03:18 BDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23846" started-at="2019-11-22T15:02:54 BDT" finished-at="2019-11-22T15:03:18 BDT">
+      <class name="pagefactory.com.tests.PagefactoryTests_Login">
+        <test-method status="PASS" signature="BeforeTest()[pri:0, instance:pagefactory.com.tests.PagefactoryTests_Login@470734c3]" name="BeforeTest" is-config="true" duration-ms="8688" started-at="2019-11-22T15:02:54 BDT" finished-at="2019-11-22T15:03:03 BDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method status="PASS" signature="login_negative_all_invalid_value()[pri:0, instance:pagefactory.com.tests.PagefactoryTests_Login@470734c3]" name="login_negative_all_invalid_value" duration-ms="3726" started-at="2019-11-22T15:03:03 BDT" finished-at="2019-11-22T15:03:07 BDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_negative_all_invalid_value -->
+        <test-method status="PASS" signature="login_negative_blank_value()[pri:0, instance:pagefactory.com.tests.PagefactoryTests_Login@470734c3]" name="login_negative_blank_value" duration-ms="3837" started-at="2019-11-22T15:03:07 BDT" finished-at="2019-11-22T15:03:10 BDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_negative_blank_value -->
+        <test-method status="PASS" signature="login_positive_all_valid_value()[pri:0, instance:pagefactory.com.tests.PagefactoryTests_Login@470734c3]" name="login_positive_all_valid_value" duration-ms="7426" started-at="2019-11-22T15:03:10 BDT" finished-at="2019-11-22T15:03:18 BDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_positive_all_valid_value -->
+        <test-method status="PASS" signature="AfterTest()[pri:0, instance:pagefactory.com.tests.PagefactoryTests_Login@470734c3]" name="AfterTest" is-config="true" duration-ms="130" started-at="2019-11-22T15:03:18 BDT" finished-at="2019-11-22T15:03:18 BDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+      </class> <!-- pagefactory.com.tests.PagefactoryTests_Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
